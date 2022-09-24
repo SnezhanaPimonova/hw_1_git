@@ -5,10 +5,10 @@ public class ExampleTest {
 
     @Test
     void exampleTest0(){
-        Assertions.assertTrue(3>=1);
+        Assertions.assertTrue(7>=4);
     }
     @Test
     void exampleTest1(){
-        Assertions.assertTrue(4>=3);
+        Assertions.assertTrue(5>=2);
     }
 }
